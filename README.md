@@ -12,6 +12,7 @@ Note, you can check the statistical result on `/path/to/storage` monthly, biannu
 | Features | Technology |
 | :--------: | :-------: |
 | Visualization of statistical results  | Flask |
+|Utility of Monitor keyboard input| `linux/input.h`/`Windows.h` |
 
 ## Usage
 
@@ -34,3 +35,7 @@ cd KeyboardStatistic
 ~~~
 
 ## Future work
+
+## Thanks
+
+[Accessing Keys from Linux Input Device](https://stackoverflow.com/questions/20943322/accessing-keys-from-linux-input-device)
